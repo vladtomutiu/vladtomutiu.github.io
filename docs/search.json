@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "vladtomutiu.github.io",
+    "objectID": "Soccer.html",
+    "href": "Soccer.html",
+    "title": "athletic cv",
     "section": "",
-    "text": "This is just the beginning.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "NCAA D2 - Games: 11, Starts: 11 , Goals: 3, Assists: 0\n3C2A - Games: 55, Starts: 40 , Goals: 9, Assists: 10"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Soccer.html#vlad-tomutiu-career-stats",
+    "href": "Soccer.html#vlad-tomutiu-career-stats",
+    "title": "athletic cv",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "NCAA D2 - Games: 11, Starts: 11 , Goals: 3, Assists: 0\n3C2A - Games: 55, Starts: 40 , Goals: 9, Assists: 10"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vlad Tomutiu",
+    "section": "",
+    "text": "This is a link\nHi, my name is Vlad Tomutiu — a student-athlete at Chaminade University! I am a Data Science Major, as well as a member of the men’s soccer team.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#my-name-is-vlad-tomutiu",
+    "href": "index.html#my-name-is-vlad-tomutiu",
+    "title": "Vlad Tomutiu",
+    "section": "",
+    "text": "This is a link\nHi, my name is Vlad Tomutiu — a student-athlete at Chaminade University! I am a Data Science Major, as well as a member of the men’s soccer team.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "About this site\nDownload PDF file."
   }
 ]

@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+About this site
+
+{{< pdf media/new_resume.pdf width=100% height=800 >}}

@@ -1,0 +1,10 @@
+---
+title: "athletic cv"
+format: html
+---
+
+## Vlad Tomutiu career stats:
+
+NCAA D2 - Games: 11, Starts: 11 , Goals: 3, Assists: 0
+
+3C2A - Games: 55, Starts: 40 , Goals: 9, Assists: 10

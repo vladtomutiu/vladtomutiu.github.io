@@ -1,8 +1,33 @@
 ---
-title: "vladtomutiu.github.io"
+title: "Vlad Tomutiu"
+image: media/78F8422B-D3DB-4DE0-8E3F-A29D7315D6D3.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 10cm
+  links: 
+    - icon: github
+      href: https://github.com/vladtomutiu
+      target: blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/vlad-andrei-tomutiu-517678342/
+      target: blank
+    - icon: instagram
+      href: https://www.instagram.com/vladyy2/
+      target: blank
+    - text: Email
+      icon: envelope
+      href: vlad.tomutiu@gmail.com
 ---
 
-This is just the beginning.
+# Hello
+
+## My name is Vlad Tomutiu
+
+This is a [link](https://mail.google.com/mail/u/0/#inbox)
+
+Hi, my name is Vlad Tomutiu — a student-athlete at Chaminade University! I am a Data Science Major, as well as a member of the men's soccer team.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

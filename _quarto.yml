@@ -4,20 +4,47 @@ project:
 
 
 website:
-  title: "vladtomutiu.github.io"
+  title: "Vlad Tomutiu"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right: 
+      - href: index.qmd
+        text: Home
+      - resume.qmd
+      - icon: github
+        href: https://github.com/vladtomutiu
+        target: blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vlad-andrei-tomutiu-517678342/
+        target: blank
+      - icon: instagram
+        href: https://www.instagram.com/vladyy2/
+        target: blank
+      - text: Email
+        icon: envelope
+        href: vlad.tomutiu@gmail.com
+      
+      
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: Lux
     css: styles.css
     toc: true
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 10cm
+  links: 
+    - icon: github
+      href: https://github.com/vladtomutiu
+      target: blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/vlad-andrei-tomutiu-517678342/
+      target: blank
 
 editor: visual
 
