@@ -6,14 +6,13 @@ project:
 website:
   title: "Vlad Tomutiu"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
     right: 
       - href: index.qmd
         text: Home
-      - resume.qmd
+      - href: resume.qmd
+        text: Resume
+      - href: Soccer.qmd
+        text: Soccer
       - icon: github
         href: https://github.com/vladtomutiu
         target: blank
@@ -22,10 +21,7 @@ website:
         target: blank
       - icon: instagram
         href: https://www.instagram.com/vladyy2/
-        target: blank
-      - text: Email
-        icon: envelope
-        href: vlad.tomutiu@gmail.com
+        
       
       
 

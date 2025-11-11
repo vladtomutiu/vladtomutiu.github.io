@@ -16,21 +16,26 @@ about:
     - icon: instagram
       href: https://www.instagram.com/vladyy2/
       target: blank
-    - text: Email
-      icon: envelope
-      href: vlad.tomutiu@gmail.com
 ---
 
 # Hello
 
 ## My name is Vlad Tomutiu
 
-This is a [link](https://mail.google.com/mail/u/0/#inbox)
+Hi, my name is Vlad Tomutiu — a student-athlete at Chaminade University! I am a Data Science Major, as well as a member of the Men's soccer team. I would like to continue my soccer career after college and become a sports analyst or statistician after my playing career.
 
-Hi, my name is Vlad Tomutiu — a student-athlete at Chaminade University! I am a Data Science Major, as well as a member of the men's soccer team.
+## Background
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   Junior, B.S. in Data Science, Analytics, and Visualizations at Chaminade University
 
-```{r}
-1 + 1
-```
+-   Chaminade University men's soccer
+
+-   Associates in Mathematics at Cañada College (3.9 GPA)
+
+<!-- -->
+
+-   Phi Theta Kappa Honors program member
+
+-   Dean's List every semester
+
+-   Cañada College men's soccer captain
